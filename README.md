@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @yousero
 ### 👀 I’m interested in low level stuff
 ### 🌱 I’m currently learning FASM
-### 📫 How to reach me: [Telegram](t.me/yousero)
+### 📫 How to reach me: [Telegram](https://t.me/yousero)
 
 <!---
 yousero/yousero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
