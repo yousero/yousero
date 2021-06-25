@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @yousero
 * 👀 I’m interested in low level stuff
-* 🌱 I’m currently learning FASM, NASM
+* 🌱 I’m currently learning Compilers
 * 📫 How to reach me: [Telegram](https://t.me/yousero)
 
 <!---
