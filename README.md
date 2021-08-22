@@ -2,6 +2,7 @@
 * 👀 I’m interested in low level stuff
 * 🌱 I’m currently learning Compilers
 * 📫 How to reach me: [Telegram](https://t.me/yousero)
+* 🖋️ [CodePen](https://codepen.io/youser)
 
 <!---
 yousero/yousero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
