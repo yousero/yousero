@@ -1,6 +1,4 @@
 * 👋 Hi, I’m @yousero
-* 👀 I’m interested in low level stuff
-* 🌱 I’m currently learning GameDev
 * 📫 How to reach me: [Telegram](https://t.me/yousero)
 * 🖋️ [CodePen](https://codepen.io/youser)
 
