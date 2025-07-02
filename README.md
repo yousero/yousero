@@ -1,5 +1,4 @@
 * 👋 Hi, I’m @yousero
-<!--- * 📫 How to reach me: [Telegram](https://t.me/yousero) --->
 * 🖋️ [CodePen](https://codepen.io/youser)
 
 <!---
