@@ -1,4 +1,7 @@
 * 👋 Hi, I’m @yousero
+* 👀 I’m interested in Node.js, Python and C++
+* 🌱 I’m currently learning OS, protocols and hacking
+* 📫 How to reach me: [Telegram](https://t.me/yousero)
 * 🖋️ [CodePen](https://codepen.io/youser)
 
 <!---
